@@ -1,2 +1,2 @@
-# interactive-ratin-component
+# interactive-rating-component
 front-end mentor project
